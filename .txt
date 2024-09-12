@@ -1,0 +1,24 @@
+//!Movie Rating Data
+{
+    "moviename" : "kalki 2898",
+    "releasedata" : "27 June 2024",
+    "review" : "7.6",
+    "directoryname" : "Nag-Ashwin",
+    "productionhouse" : "vijayanthi Movie",
+    "earning" : 1000,
+    "budget" : 600,
+    "movieid" : "001"
+}
+
+{
+    "moviename" : "Bahubali",
+    "releasedata" : "10 July 2015",
+    "review" : "8",
+    "directoryname" : "Raja Mauli",
+    "productionhouse" : "Shobu Yarlagadda",
+    "earning" : 600,
+    "budget" : 180,
+    "movieid" : "002"
+}
+
+//!User Data
